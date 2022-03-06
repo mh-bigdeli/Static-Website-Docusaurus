@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://elearninghub.github.io/Static-Website-Docusaurus/blog</id>
+    <title>docu Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://elearninghub.github.io/Static-Website-Docusaurus/blog"/>
+    <subtitle>docu Blog</subtitle>
+    <icon>https://elearninghub.github.io/Static-Website-Docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://elearninghub.github.io/Static-Website-Docusaurus/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p>]]></content>
+        <author>
+            <name>Upskillset</name>
+            <uri>https://gitlab.com/upskillset</uri>
+        </author>
+    </entry>
+</feed>
